@@ -120,7 +120,7 @@ return [
     'string' => 'The :attribute must be a string.',
     'timezone' => 'The :attribute must be a valid zone.',
     // 'unique' => 'The :attribute has already been taken.',
-    'unique' => 'O :attribute já foi cadastrado',
+    'unique' => 'Já existe uma pessoa cadastrada com esse :attribute',
     'uploaded' => 'The :attribute failed to upload.',
     'url' => 'The :attribute format is invalid.',
     'uuid' => 'The :attribute must be a valid UUID.',
